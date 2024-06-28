@@ -12,7 +12,7 @@ const introdata = {
         // third: "I develop mobile apps",
     },
     description: "UI Developer dedicated to crafting visually stunning and user-friendly digital experiences. Welcome to my portfolio, where creativity meets functionality.",
-    your_img_url: "https://lh3.googleusercontent.com/pw/AP1GczPGAuSxBFwLttTFw7IYCcsa02lt2DlFIJVZWc_KtbslQ49UTs_-PEyqG98pCRDPID1klDZbVym25MmKAYvAdunIEPBG3-a8fky-VEhFY5R3Z1jQRifW=w2400",
+    your_img_url: "https://lh3.googleusercontent.com/pw/AP1GczNCd3_kHxAlj-PDPM02wkygSI_SIHYnfso23BDeQf5QltbBbAhpXe2f7XK-zM7SrmfglOHG9OxhS7mTD4z34FT-4nWrgeEiIK3_brAKT16z5G9NsjY8=w2400",
 };
 
 const dataabout = {
