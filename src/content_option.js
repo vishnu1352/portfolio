@@ -7,16 +7,16 @@ const meta = {
 const introdata = {
     title: "I’m Vishnu Vardhan",
     animated: {
-        first: "I love coding",
+        first: "I develop Web applications",
         second: "I code cool websites",
-        third: "I develop Web application",
+        third: "I love coding",
     },
     description: "UI Developer dedicated to crafting visually stunning and user-friendly digital experiences. Welcome to my portfolio, where creativity meets functionality.",
     your_img_url: "https://lh3.googleusercontent.com/pw/AP1GczNCd3_kHxAlj-PDPM02wkygSI_SIHYnfso23BDeQf5QltbBbAhpXe2f7XK-zM7SrmfglOHG9OxhS7mTD4z34FT-4nWrgeEiIK3_brAKT16z5G9NsjY8=w2400",
 };
 
 const dataabout = {
-    title: "about my self",
+    title: "About my self",
     aboutme: "I am VISHNU VARDHAN, a UI Developer with 2 years of experience in crafting sophisticated, user-centric digital interfaces. I specialize in HTML, CSS, JavaScript, and React, transforming complex requirements into intuitive, visually appealing user experiences. My commitment to excellence and continuous learning ensures that I stay at the forefront of industry advancements, integrating the latest trends and technologies into my work",
 };
 const worktimeline = [{
