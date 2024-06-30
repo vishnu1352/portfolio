@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Vishnu Vardhan",
     animated: {
-        first: "I develop Web applications",
+        first: "I develop Web apps",
         second: "I code cool websites",
         third: "I love coding",
     },
@@ -155,6 +155,7 @@ const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
+    instagram:'https://www.instagram.com/vishnu.v.vardhan?igsh=eHN2djF1MTAzOHdl'
 };
 export {
     meta,
